@@ -37,3 +37,17 @@ make shell
 ```
 
 User name: admin User password: XWU3hbPdQ5
+
+composer.json file initial by default
+{
+"name": "druid/druid.fi-d9",
+"type": "project",
+"description": "Druid.fi D9 site.",
+"homepage": "https://github.com/druidfi/druid.fi-d9",
+"license": "proprietary",
+"authors": [
+{
+"name": "Druid.fi",
+"email": "info@druid.fi"
+}
+],
